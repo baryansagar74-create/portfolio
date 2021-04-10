@@ -1,2 +1,2 @@
 # Portfolio
-It's website about me.
+A website about me.
