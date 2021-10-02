@@ -1,2 +1,2 @@
 # Portfolio
-A website about me.
+A simple website made by me using HTML and CSS.
