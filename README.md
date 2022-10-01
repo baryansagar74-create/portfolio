@@ -1,2 +1,2 @@
 # Portfolio
-A simple web made by Gothira Mendis using CSS & HTML.
+A simple webpage made by Gothira Sathnindu using CSS & HTML in 2017.
