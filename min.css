@@ -1,17 +1,17 @@
 body {
-	height: 110%;
+	height: 120%;
 	margin: 0;
 	text-align: left;
-	width: 100%;
-                 background-color: gold;
-                 color:maroon;
+	width: 120%;
+                 background-color: black;
+                 color:white;
 }
 
 h1 {
 text-align: center;
    font-size: 38px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: gold;
+  color: white;
 }
 
 h2 {
@@ -28,4 +28,4 @@ h2 {
 
 
 p {
-  font-size: 30px;
+  font-size: 28px;
