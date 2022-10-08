@@ -1,2 +1,2 @@
 # Portfolio
-A simple webpage made by Gothira Sathnindu using CSS & HTML in 2017.
+This webpage was created by gothira mendis, this contains my bio data and simple infromation about me.
