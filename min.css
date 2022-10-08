@@ -3,8 +3,8 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 120%;
-                 background-color: black;
-                 color:white;
+                 background-color: rgb(226, 144, 29);
+                 
 }
 
 h1 {
@@ -29,3 +29,5 @@ h2 {
 
 p {
   font-size: 28px;
+  font-family: sans-serif;
+}
