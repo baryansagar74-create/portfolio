@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
-                 background-color: rgb(226, 144, 29);
+  background-color: burlywood;
                  
 }
 
@@ -31,4 +31,17 @@ p {
   font-size: 28px;
   font-family: sans-serif;
   margin-left:15px;
+}
+
+#a{
+  border: 3px solid black;
+}
+
+#b{
+  border: 3px solid black;
+}
+
+i{
+  color: black;
+  text-decoration: underline;
 }
